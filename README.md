@@ -40,15 +40,24 @@ This repository covers everything from basics to advanced concepts like time ser
 ---
 
 ## 📂 Repository Structure
-1_setup → Environment setup & basics
-02_series → Pandas Series fundamentals
+1_setup → Environment setup & basics 
+
+02_series → Pandas Series fundamentals 
+
 03_dataframe → DataFrame operations
+
 04_data_cleaning → Handling missing & messy data
+
 05_groupby → Aggregation & grouping
+
 06_merge_join → Combining datasets
+
 07_time_series → Time-based analysis & trends
+
 08_performance → Optimization techniques
+
 09_project → Real-world project
+
 10_Interview_Qus → Important interview questions
 
 
