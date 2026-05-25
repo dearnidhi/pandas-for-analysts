@@ -106,6 +106,6 @@ If you find this helpful, consider giving it a star ⭐
 👤 Author
 
 Nidhi Chouhan
-GitHub: https://github.com/codenidhi
+GitHub: https://github.com/dearnidhi
 
 
