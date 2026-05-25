@@ -1,3 +1,5 @@
+Youtube video for this Course:- https://www.youtube.com/playlist?list=PLdLq3Dxsp3jiXsGimHPHIOvSL17KpDHcY
+
 # 🐼 Pandas Data Analysis Repository
 
 A practical, hands-on collection of Pandas modules designed to help you master real-world data analysis using Python.
